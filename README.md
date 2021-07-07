@@ -24,7 +24,7 @@ cd client && npm run build
 # Graphiql - http://localhost:5000/graphql
 ```
 
-## Live Website
+## App Info
 
 ### Functionalities
 
