@@ -2,7 +2,7 @@
 
 > React, GraphQL, Apollo app that uses the SpaceX API to display mission details like launches and rocket details
 
-## Installation amd Running Instructions
+## Installation and Running Instructions
 
 ```
 # Install dependencies (server & client)
