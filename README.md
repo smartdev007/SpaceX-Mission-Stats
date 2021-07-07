@@ -30,8 +30,8 @@ cd client && npm run build
 
 - Get all mission names
 - Find out if the mission was successful or not
-- Check mission launch date
-- Find out rocket name and type that was used for a particular mission
+- Check mission launch date and time
+- Find out rocket name and rocket type that was used for a particular mission
 
 ### Live website
 
